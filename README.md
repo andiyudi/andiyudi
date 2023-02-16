@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Andi Yudi Rahmat Rusli
+### Hi there 👋 You can call me Andi or Yudi
 
 <!--
 **andiyudi/andiyudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
